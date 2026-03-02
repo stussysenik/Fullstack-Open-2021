@@ -1,5 +1,17 @@
-### Full Stack Open 2021 - University of Helsinki
+<div align="center">
 
-- a practice directory for brushing up knowledge of  full stack development based on the curriculum of University of Helsinki
-- each dedicated part has its own folder
--the folder *scribbles* is a playground for React
+# Fullstack Open 2021
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
+
+</div>
+
+---
+
+## Quick Start
+
+```bash
+git clone https://github.com/stussysenik/Fullstack-Open-2021.git
+cd Fullstack-Open-2021
+```
